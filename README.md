@@ -1,12 +1,21 @@
-# dispute_resolution
-genlayer-contracts
-Handles decentralized dispute creation and resolution using severity-based logic.
+# Dispute Resolution
 
-## System Connection
+A GenLayer smart contract for storing and managing user disputes.
 
-This contract is part of a 5-contract ecosystem:
+## Features
 
-- Reputation updates trigger token rewards
-- Token balance affects marketplace bidding
-- Disputes can reduce reputation
-- All actions are logged in interaction hub
+* Submit disputes
+* Store dispute records
+* Retrieve submitted disputes
+
+## Files
+
+* contract.py
+
+## Network
+
+GenLayer Testnet
+
+## Author
+
+cryptofunny2021
